@@ -11,6 +11,18 @@ h2 {
     color: lightslategray;
 }
 
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .index-recipe {
     font-size: 24px;
+}
+
+.back-button {
+    background-color: lightpink;
 }
