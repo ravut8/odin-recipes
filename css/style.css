@@ -5,15 +5,25 @@ body {
 h1 {
     color: lightcoral;
     text-align: center;
+    margin: 30px;
+    border: 2px solid pink;
+    padding: 10px;
 }
 
 h2 {
     color: lightslategray;
+    margin: 30px 0px;
 }
 
 img {
     width: 500px;
     height: auto;
+}
+
+.container {
+    box-sizing: border-box;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 img.individual-recipe {
@@ -24,8 +34,13 @@ img.individual-recipe {
 
 .index-recipe {
     font-size: 24px;
+    margin: 20px 0px;
 }
 
 .back-button {
     background-color: lightpink;
+}
+
+#index-standout {
+    color: green;
 }
