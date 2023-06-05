@@ -39,6 +39,8 @@ img.individual-recipe {
 
 .back-button {
     background-color: lightpink;
+    padding: 5px;
+    margin-bottom: 10px;
 }
 
 #index-standout {
